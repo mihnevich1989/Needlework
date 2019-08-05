@@ -1,0 +1,19 @@
+$col-text: #393939;
+$col-w: #fff;
+$col-gold: #f0ad4e;
+$col-gold-o85:  #f0ac4eda;
+$col-fon: #141414;
+$col-g-gradient: linear-gradient(-135deg, #fceabb 0%,#fccd4d 32%,#fccd4d 40%,#fccd4d 40%,#fccd4d 48%,#f8b500 75%,#f0ad4e 100%);
+$col-grey-lighter-gradient: linear-gradient(to left, rgba(246, 248, 250, 0.85) 0%,rgba(134, 135, 136, 0.85) 100%);
+$col-grey-lighter-gradient-r: linear-gradient(to left, rgba(134, 135, 136, 0.85) 0%, rgba(246, 248, 250, 0.85)100%);
+$col-form: rgba(246, 248, 250, 0.55);
+
+$gray-darker:  lighten(#000, 13.5%); // #222
+$gray-dark:    lighten(#000, 20%);   // #333
+$gray:         lighten(#000, 33.5%); // #555
+$gray-light:   lighten(#000, 46.7%); // #777
+$gray-lighter: lighten(#000, 93.5%); // #eee
+$gray-lighter-o85: rgba(162, 162, 163, 0.85);
+
+$font-family-sans-serif:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-os:  'Open Sans', sans-serif;
