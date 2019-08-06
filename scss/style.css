@@ -30,6 +30,12 @@ header nav .navbar-brand {
   font-size: 30px;
 }
 
+@media screen and (max-width: 350px) {
+  header nav .navbar-brand {
+    font-size: 25px;
+  }
+}
+
 header nav .nav-link {
   font-size: 20px;
   font-weight: 600;

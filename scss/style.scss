@@ -27,6 +27,9 @@ header {
             text-transform: uppercase;
             font-weight: bold;
             font-size: 30px;
+            @media screen and (max-width: 350px) {
+                font-size: 25px;
+            }
         }
 
         .nav-link {
